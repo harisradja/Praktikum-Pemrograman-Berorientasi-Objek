@@ -10,4 +10,5 @@
         <maven.compiler.release>26</maven.compiler.release>
         <exec.mainClass>com.mycompany.responsi.Responsi</exec.mainClass>
     </properties>
+    <name>ResponsiUTS_Radja_2505060076</name>
 </project>
