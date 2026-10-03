@@ -1,5 +1,5 @@
 
-package Responsi;
+package ResponsiUTS_Radja_2505060076;
 // Kelas Turunan PegawaiKontrak
 public class PegawaiKontrak extends Pegawai {
     private int lamaKontrak; // Dalam bulan

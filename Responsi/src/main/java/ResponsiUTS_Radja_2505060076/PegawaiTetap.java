@@ -1,4 +1,4 @@
-package Responsi;
+package ResponsiUTS_Radja_2505060076;
 // Kelas Turunan PegawaiTetap
 public class PegawaiTetap extends Pegawai {
     private double tunjangan;
