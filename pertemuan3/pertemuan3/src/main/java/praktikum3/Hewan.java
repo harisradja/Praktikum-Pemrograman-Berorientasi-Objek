@@ -1,4 +1,3 @@
-
 package praktikum3;
 public class Hewan {
     // 1. Atribut diubah menjadi private (Enkapsulasi)
